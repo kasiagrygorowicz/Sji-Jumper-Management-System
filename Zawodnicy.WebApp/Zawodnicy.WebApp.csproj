@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\SkiJumper\Create.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\SkiJumper\Edit.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\SkiJumper\Index.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Views\SkiJumper\" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Views\SkiJumper\" />
+    </ItemGroup>
+</Project>

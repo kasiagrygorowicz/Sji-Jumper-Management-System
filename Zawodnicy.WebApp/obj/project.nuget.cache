@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jkdzZZfUaiHuZM1elwj2xCTg0c/Zlp5GvG/eqEtIoHfH+dicw8IJUwuAzAGhKnvgWy+Tgu9g+d1oS4CrpreBFw==",
+  "success": true,
+  "projectFilePath": "/Users/kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/Zawodnicy.WebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kasia/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

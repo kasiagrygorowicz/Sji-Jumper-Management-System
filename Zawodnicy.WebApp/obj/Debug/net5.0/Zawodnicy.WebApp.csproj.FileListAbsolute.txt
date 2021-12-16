@@ -1,0 +1,82 @@
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/bin/Debug/net5.0/appsettings.Development.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/bin/Debug/net5.0/appsettings.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.deps.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.runtimeconfig.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.runtimeconfig.dev.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/bin/Debug/net5.0/ref/Zawodnicy.WebApp.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.Views.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.Views.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.csproj.AssemblyReference.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.AssemblyInfoInputs.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.AssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.csproj.CoreCompileInputs.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.RazorAssemblyInfo.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.RazorAssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/staticwebassets/Zawodnicy.WebApp.StaticWebAssets.Manifest.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/staticwebassets/Zawodnicy.WebApp.StaticWebAssets.xml
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/scopedcss/bundle/Zawodnicy.WebApp.styles.css
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.TagHelpers.input.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.TagHelpers.output.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.RazorCoreGenerate.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.RazorTargetAssemblyInfo.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.RazorTargetAssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.Views.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/ref/Zawodnicy.WebApp.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.genruntimeconfig.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.csproj.CopyComplete
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/appsettings.Development.json
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/appsettings.json
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.deps.json
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.runtimeconfig.json
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.runtimeconfig.dev.json
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/ref/Zawodnicy.WebApp.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.pdb
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.Views.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/Zawodnicy.WebApp.Views.pdb
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.csproj.AssemblyReference.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.AssemblyInfoInputs.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.AssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.csproj.CoreCompileInputs.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.RazorAssemblyInfo.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.RazorAssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/staticwebassets/Zawodnicy.WebApp.StaticWebAssets.Manifest.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/staticwebassets/Zawodnicy.WebApp.StaticWebAssets.xml
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/scopedcss/bundle/Zawodnicy.WebApp.styles.css
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.TagHelpers.input.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.TagHelpers.output.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.RazorCoreGenerate.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/SkiJumper/Create.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/SkiJumper/Edit.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/SkiJumper/Index.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.RazorTargetAssemblyInfo.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.RazorTargetAssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.Views.pdb
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.csproj.CopyComplete
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/ref/Zawodnicy.WebApp.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.pdb
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.genruntimeconfig.cache
