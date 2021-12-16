@@ -80,3 +80,6 @@
 /Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/ref/Zawodnicy.WebApp.dll
 /Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.pdb
 /Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Zawodnicy.WebApp.genruntimeconfig.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Trainer/Create.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Trainer/Edit.cshtml.g.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/obj/Debug/net5.0/Razor/Views/Trainer/Index.cshtml.g.cs
