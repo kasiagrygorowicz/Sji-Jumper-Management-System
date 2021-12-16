@@ -1,0 +1,238 @@
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebApp.Views.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebApp.Views.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebApp.deps.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebApp.runtimeconfig.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebApp.runtimeconfig.dev.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.StaticWebAssets.xml
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.deps.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.runtimeconfig.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.runtimeconfig.dev.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.Core.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebApp.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.Core.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebApp.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.csproj.AssemblyReference.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.AssemblyInfoInputs.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.AssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.csproj.CoreCompileInputs.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/staticwebassets/Zawodnicy.WebAPI.StaticWebAssets.Manifest.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/staticwebassets/Zawodnicy.WebAPI.StaticWebAssets.xml
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/scopedcss/bundle/Zawodnicy.WebAPI.styles.css
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.RazorTargetAssemblyInfo.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.csproj.CopyComplete
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.genruntimeconfig.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.deps.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.runtimeconfig.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.runtimeconfig.dev.json
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.Core.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Zawodnicy.Core.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.csproj.AssemblyReference.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.AssemblyInfoInputs.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.AssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.csproj.CoreCompileInputs.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/staticwebassets/Zawodnicy.WebAPI.StaticWebAssets.Manifest.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/staticwebassets/Zawodnicy.WebAPI.StaticWebAssets.xml
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/scopedcss/bundle/Zawodnicy.WebAPI.styles.css
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.RazorTargetAssemblyInfo.cache
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.csproj.CopyComplete
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.dll
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.pdb
+/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.genruntimeconfig.cache

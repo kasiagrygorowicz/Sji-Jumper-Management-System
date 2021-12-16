@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+  zawodnicy.webapi:
+    image: zawodnicy:dev
+    container_name: Zawodnicy.WebAPI
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "Zawodnicy.WebAPI"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      - NUGET_FALLBACK_PACKAGES=
+    volumes:
+      - /Users/Kasia/Documents/dev/cs/Zawodnicy/Zawodnicy.WebAPI:/app
+      - /Users/Kasia/Documents/dev/cs/Zawodnicy:/src
+      - /Users/kasia/vsdbg/vs2017u5:/remote_debugger:rw
+      - /Users/kasia/.nuget/packages/:/root/.nuget/packages:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"/app/bin/Debug/netcoreapp3.1/Zawodnicy.WebAPI.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
