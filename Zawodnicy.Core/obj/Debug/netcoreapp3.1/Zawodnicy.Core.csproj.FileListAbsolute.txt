@@ -18,3 +18,13 @@
 /Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Core/obj/Debug/netcoreapp3.1/Zawodnicy.Core.csproj.CoreCompileInputs.cache
 /Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Core/obj/Debug/netcoreapp3.1/Zawodnicy.Core.dll
 /Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Core/obj/Debug/netcoreapp3.1/Zawodnicy.Core.pdb
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/bin/Debug/netcoreapp3.1/Zawodnicy.Core.deps.json
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/bin/Debug/netcoreapp3.1/Zawodnicy.Core.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/bin/Debug/netcoreapp3.1/Zawodnicy.Core.pdb
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/obj/Debug/netcoreapp3.1/Zawodnicy.Core.csproj.AssemblyReference.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/obj/Debug/netcoreapp3.1/Zawodnicy.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/obj/Debug/netcoreapp3.1/Zawodnicy.Core.AssemblyInfoInputs.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/obj/Debug/netcoreapp3.1/Zawodnicy.Core.AssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/obj/Debug/netcoreapp3.1/Zawodnicy.Core.csproj.CoreCompileInputs.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/obj/Debug/netcoreapp3.1/Zawodnicy.Core.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/obj/Debug/netcoreapp3.1/Zawodnicy.Core.pdb

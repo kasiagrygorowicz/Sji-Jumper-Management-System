@@ -5802,7 +5802,7 @@
     "Zawodnicy.Core/1.0.0": {
       "type": "project",
       "path": "../Zawodnicy.Core/Zawodnicy.Core.csproj",
-      "msbuildProject": "../Zawodnicy.Core/Zawodnicy.Core.csproj"
+      "msbuildProject": "../../../../../../Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/Zawodnicy.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5820,11 +5820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Infrastructure/Zawodnicy.Infrastructure.csproj",
+      "projectUniqueName": "/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/Zawodnicy.Infrastructure.csproj",
       "projectName": "Zawodnicy.Infrastructure",
-      "projectPath": "/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Infrastructure/Zawodnicy.Infrastructure.csproj",
+      "projectPath": "/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/Zawodnicy.Infrastructure.csproj",
       "packagesPath": "/Users/kasia/.nuget/packages/",
-      "outputPath": "/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Infrastructure/obj/",
+      "outputPath": "/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kasia/.nuget/NuGet/NuGet.Config"
@@ -5839,8 +5839,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Core/Zawodnicy.Core.csproj": {
-              "projectPath": "/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Core/Zawodnicy.Core.csproj"
+            "/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/Zawodnicy.Core.csproj": {
+              "projectPath": "/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/Zawodnicy.Core.csproj"
             }
           }
         }

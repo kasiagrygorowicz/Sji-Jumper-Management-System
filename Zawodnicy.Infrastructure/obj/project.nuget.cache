@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F9pimUl4/MOu/e9SKum0AH5rMFGuevQe9pA50IjU8KM3S2bPQ3wQBxjftCcNKRZf+gC5Evvm8NsP6LZ/TaoT1g==",
+  "dgSpecHash": "TbI9Jhj3TUMOzd7sCVlfrlji6ZVdhKnoiBslHKhhu40+eP2ISxcI/BpGNWkXGVeuKxxfMTT0Ew1kvkJqEcSkuA==",
   "success": true,
-  "projectFilePath": "/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Infrastructure/Zawodnicy.Infrastructure.csproj",
+  "projectFilePath": "/Users/kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/Zawodnicy.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/kasia/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/kasia/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

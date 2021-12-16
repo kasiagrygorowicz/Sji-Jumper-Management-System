@@ -39,3 +39,19 @@
 /Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.dll
 /Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.pdb
 /Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.genruntimeconfig.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/bin/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.deps.json
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/bin/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.runtimeconfig.json
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/bin/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.runtimeconfig.dev.json
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/bin/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/bin/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.pdb
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/bin/Debug/netcoreapp3.1/Zawodnicy.Core.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/bin/Debug/netcoreapp3.1/Zawodnicy.Core.pdb
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.csproj.AssemblyReference.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.AssemblyInfoInputs.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.AssemblyInfo.cs
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.csproj.CopyComplete
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.dll
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.pdb
+/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Infrastructure/obj/Debug/netcoreapp3.1/Zawodnicy.Infrastructure.genruntimeconfig.cache

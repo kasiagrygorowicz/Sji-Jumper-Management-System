@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Core/Zawodnicy.Core.csproj",
+      "projectUniqueName": "/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/Zawodnicy.Core.csproj",
       "projectName": "Zawodnicy.Core",
-      "projectPath": "/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Core/Zawodnicy.Core.csproj",
+      "projectPath": "/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/Zawodnicy.Core.csproj",
       "packagesPath": "/Users/kasia/.nuget/packages/",
-      "outputPath": "/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.Core/obj/",
+      "outputPath": "/Users/Kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kasia/.nuget/NuGet/NuGet.Config"

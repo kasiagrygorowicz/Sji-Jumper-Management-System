@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQSM1f03LXO9V0mcCOHlCksbnKKh5rtkZd14Zspck4v5hmLV3Jml9kn3y4knHV4AFQQrRnynhfviYLI+vr81dg==",
+  "dgSpecHash": "oyxX0TwMuV8IUrl58swZe+dUaAYwAdZR9J1tmEGJn1n7VMIC393y3REkj8zejwmTqvu1jH+fFTluGE3uMrgu+w==",
   "success": true,
-  "projectFilePath": "/Users/Kasia/Documents/dev/cs/Zawodnicy 3/Zawodnicy.WebAPI/Zawodnicy.WebAPI.csproj",
+  "projectFilePath": "/Users/kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebAPI/Zawodnicy.WebAPI.csproj",
   "expectedPackageFiles": [
     "/Users/kasia/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/kasia/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
