@@ -23,6 +23,7 @@
       <None Remove="Views\SkiJumper\" />
     </ItemGroup>
     <ItemGroup>
+      <Folder Include="Pages" />
       <Folder Include="Views\SkiJumper\" />
       <Folder Include="Views\Trainer" />
     </ItemGroup>
