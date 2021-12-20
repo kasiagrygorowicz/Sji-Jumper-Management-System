@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  zawodnicy.webapi:
-    image: ${DOCKER_REGISTRY-}zawodnicy
-    build:
-      context: .
-      dockerfile: Zawodnicy.WebAPI/Dockerfile

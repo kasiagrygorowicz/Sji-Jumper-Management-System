@@ -2,18 +2,18 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Zawodnicy.WebApp/Properties/launchSettings.json">
     <Files>
       <File FileName="Zawodnicy.WebApp/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="Zawodnicy.WebApp/Views/SkiJumper/Index.cshtml" Line="6" Column="22" />
-      <File FileName="Zawodnicy.WebApp/Controllers/SkiJumperController.cs" Line="1" Column="1" />
-      <File FileName="Zawodnicy.WebApp/appsettings.json" Line="5" Column="3" />
-      <File FileName="Zawodnicy.WebAPI/Program.cs" Line="16" Column="1" />
+      <File FileName="Zawodnicy.WebApp/Views/SkiJumper/Index.cshtml" />
+      <File FileName="Zawodnicy.WebApp/Controllers/SkiJumperController.cs" />
+      <File FileName="Zawodnicy.WebApp/appsettings.json" />
+      <File FileName="Zawodnicy.WebAPI/Program.cs" />
       <File FileName="Zawodnicy.WebApp/Properties/launchSettings.json" Line="29" Column="1" />
-      <File FileName="Zawodnicy.WebAPI/Properties/launchSettings.json" Line="10" Column="5" />
-      <File FileName="Zawodnicy.WebApp/Program.cs" Line="16" Column="1" />
+      <File FileName="Zawodnicy.WebAPI/Properties/launchSettings.json" />
+      <File FileName="Zawodnicy.WebApp/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Zawodnicy" expanded="True">
+          <Node name="Zawodnicy" expanded="True" selected="True">
             <Node name="Zawodnicy.Infrastructure" expanded="True">
               <Node name="Dependencies" expanded="True" />
               <Node name="Commands" expanded="True" />
@@ -29,9 +29,7 @@
             <Node name="Zawodnicy.WebApp" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="launchSettings.json" selected="True" />
-              </Node>
+              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
                 <Node name="SkiJumper" expanded="True" />

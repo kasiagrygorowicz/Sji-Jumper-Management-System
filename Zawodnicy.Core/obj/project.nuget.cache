@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8YLmHop2pXu1KOVdX4DuZRYI5v50+wFlavIW/f2buRTkcBxO1WLFHuNw97YvYZQ2GmqKyFriahMnyogaRyySxg==",
+  "dgSpecHash": "oJyKgj/vDJjfMpkG82DqbIpaws+3l8ouHvOLQLAN2D/bcrsbgssc6Moponr/FMvcpWOC9odYON+GiyU/uFU2kA==",
   "success": true,
-  "projectFilePath": "/Users/kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.Core/Zawodnicy.Core.csproj",
+  "projectFilePath": "/Users/kasia/RiderProjects/Sji-Jumper-Management-System/Zawodnicy.Core/Zawodnicy.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

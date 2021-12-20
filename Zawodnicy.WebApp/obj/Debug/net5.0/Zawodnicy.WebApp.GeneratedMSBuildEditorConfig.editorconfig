@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Zawodnicy.WebApp
-build_property.ProjectDir = /Users/kasia/Documents/dev/cs/SkiJumperManagementSystem/Zawodnicy.WebApp/
+build_property.ProjectDir = /Users/Kasia/RiderProjects/Sji-Jumper-Management-System/Zawodnicy.WebApp/
