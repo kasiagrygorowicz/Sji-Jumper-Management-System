@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
@@ -53,12 +54,14 @@ namespace Zawodnicy.WebApp.Controllers
         }
         
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Create()
         {
             return await Task.Run(() => { return View(new CreateTrainerVM()); });
         }
         
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> Create(CreateTrainerVM t)
         {
             string _restpath = GetHostUrl().Content + CN();
@@ -86,6 +89,7 @@ namespace Zawodnicy.WebApp.Controllers
         }
         
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Delete(int id)
         {
             string _restpath = GetHostUrl().Content + CN();
@@ -112,6 +116,7 @@ namespace Zawodnicy.WebApp.Controllers
         }
           
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Edit(int id)
         {
             string _restpath = GetHostUrl().Content + CN();
@@ -131,6 +136,7 @@ namespace Zawodnicy.WebApp.Controllers
         }
         
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> Edit(UpdateTrainerVM s)
         {
             string _restpath = GetHostUrl().Content + CN();

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
@@ -55,6 +56,7 @@ namespace Zawodnicy.WebApp.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Edit(int id)
         {
             string _restpath = GetHostUrl().Content + CN();
@@ -75,6 +77,7 @@ namespace Zawodnicy.WebApp.Controllers
 
 
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> Edit(SkiJumperVM s)
         {
             string _restpath = GetHostUrl().Content + CN();
@@ -103,12 +106,14 @@ namespace Zawodnicy.WebApp.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Create()
         {
             return await Task.Run(() => { return View(new CreateSkiJumperVM()); });
         }
 
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> Create(CreateSkiJumperVM s)
         {
             string _restpath = GetHostUrl().Content + CN();
@@ -136,6 +141,7 @@ namespace Zawodnicy.WebApp.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Delete(int id)
         {
             string _restpath = GetHostUrl().Content + CN();

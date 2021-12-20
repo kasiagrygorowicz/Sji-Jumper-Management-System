@@ -3,6 +3,12 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+@{
+    if (!User.Identity.IsAuthenticated)
+    {
+        <i>Aby dodawać, edytowaćlub usuwać zawodników musisz być zalogowany</i>
+    }
+}
 <table class="table">
     <thead>
         <tr>
