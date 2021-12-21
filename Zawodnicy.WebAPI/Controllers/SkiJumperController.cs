@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Zawodnicy.Infrastructure.Commands;
 using Zawodnicy.Infrastructure.services;
@@ -21,6 +22,7 @@ namespace Zawodnicy.WebAPI.Controllers
         //skijumper
 
         [HttpGet]
+      
         public async Task<IActionResult> BrowseAll()
         {
             var z = await _skiJumperService.BrowseAll();
@@ -29,6 +31,7 @@ namespace Zawodnicy.WebAPI.Controllers
 
         //skijumper/{id }
         [HttpGet("{id}")]
+        
         public async Task<IActionResult> GetSkiJumper(int id)
         {
 
@@ -45,6 +48,7 @@ namespace Zawodnicy.WebAPI.Controllers
 
         //skijumper
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> AddSkiJumper([FromBody] CreateSkiJumper skiJumper)
         {
             await _skiJumperService.AddAsync(skiJumper);
@@ -54,6 +58,7 @@ namespace Zawodnicy.WebAPI.Controllers
 
         //skijumper/{id}
         [HttpPut("{id}")]
+        [Authorize]
         public async Task<IActionResult> UpdateSkiJumper([FromBody] UpdateSkiJumper skiJumper, int id)
         {
             await _skiJumperService.UpdateAsync(skiJumper, id);
@@ -63,6 +68,7 @@ namespace Zawodnicy.WebAPI.Controllers
 
         //skijumper/{id}
         [HttpDelete("{id}")]
+        [Authorize]
         public async Task<IActionResult> DeleteSkiJumper(int id)
         {
             await _skiJumperService.DeleteAsync(id);

@@ -375,3 +375,4 @@
 /Users/Kasia/RiderProjects/Sji-Jumper-Management-System/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.dll
 /Users/Kasia/RiderProjects/Sji-Jumper-Management-System/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.pdb
 /Users/Kasia/RiderProjects/Sji-Jumper-Management-System/Zawodnicy.WebAPI/obj/Debug/netcoreapp3.1/Zawodnicy.WebAPI.genruntimeconfig.cache
+/Users/Kasia/RiderProjects/Sji-Jumper-Management-System/Zawodnicy.WebAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll

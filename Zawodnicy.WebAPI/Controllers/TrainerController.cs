@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Zawodnicy.Core.Domain;
 using Zawodnicy.Infrastructure.Commands;
@@ -36,6 +37,7 @@ namespace Zawodnicy.WebAPI.Controllers
 
 
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> AddTrainer([FromBody] CreateTrainer trainer)
         {
             await _trainerService.AddAsync(trainer);
@@ -44,6 +46,7 @@ namespace Zawodnicy.WebAPI.Controllers
         }
 
         [HttpPut("{id}")]
+        [Authorize]
         public async Task<IActionResult> UpdateTrainer([FromBody] UpdateTrainer trainer, int id)
         {
             await _trainerService.UpdateAsync(trainer, id);
@@ -52,6 +55,7 @@ namespace Zawodnicy.WebAPI.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize]
         public async Task<IActionResult> DeleteTrainer(int id)
         {
             await _trainerService.DeleteAsync(id);

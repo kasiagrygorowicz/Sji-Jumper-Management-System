@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kPSwhYRcEwkMIiCwVQw9opcTkmUiqVlUI/+lOHupITiNRNXuHWvkhhYOBbFvcsRmkb3y/V2+Aa8WuR+gffmIhQ==",
+  "dgSpecHash": "XDnfmrX6Q5OJi0lWM7TcCdQDgqaiosNL35krkju0CMKdy8c0F/kgILqDwZJjeH9HcdMxODdoTZ2NxanvjGXZZw==",
   "success": true,
   "projectFilePath": "/Users/kasia/RiderProjects/Sji-Jumper-Management-System/Zawodnicy.WebAPI/Zawodnicy.WebAPI.csproj",
   "expectedPackageFiles": [
     "/Users/kasia/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/kasia/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/3.1.22/microsoft.aspnetcore.authentication.jwtbearer.3.1.22.nupkg.sha512",
     "/Users/kasia/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.0/microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",
     "/Users/kasia/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/5.0.0/microsoft.aspnetcore.cryptography.keyderivation.5.0.0.nupkg.sha512",
     "/Users/kasia/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/5.0.0/microsoft.aspnetcore.identity.entityframeworkcore.5.0.0.nupkg.sha512",
